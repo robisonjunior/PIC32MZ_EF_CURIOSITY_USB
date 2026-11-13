@@ -1,4 +1,4 @@
-\# GoHobby Servo Converter (PIC12F1840)
+\# Curiosity 2.0 PIC32 MZ EF - Pilha USB Microchip Serial COM Virtual
 
 
 
