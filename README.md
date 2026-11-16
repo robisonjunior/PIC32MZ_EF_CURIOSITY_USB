@@ -4,6 +4,10 @@
 
 # USB CDC Device com MPLAB Harmony v3 (Controle de LEDs e Botões) Curiosity 2.0 PIC32 MZ EF
 
+![PIC32 CURIOSUTY 2.0 MZ EF](./pic32mz.jpeg)
+
+
+
 Arquivo de código-fonte (`app.c`) desenvolvido utilizando o framework **MPLAB Harmony v3**, implementando uma aplicação baseada em máquina de estados para comunicação **USB CDC (Virtual COM Port)**, controle de LEDs RGB e gerenciamento de múltiplos botões com envio de mensagens de status via USB.
 
 ---
